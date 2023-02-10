@@ -1,1 +1,2 @@
-# OsnoveBazaPodataka-OBP-Zadaca2
+# OsnoveBazaPodataka 2022/23
+# Zadaća 2
